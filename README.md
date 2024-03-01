@@ -63,25 +63,25 @@ The module named **crypto_screener.py** is used by **crypto_screener_module_test
 
 The tool is used by first unzipping the folder after downloading and then running the **crypto_screener_module_tester.ipynb**. After defining the screener to retrieve the coins we would like, the tool then pulls in all of the crypto data and screens it as well. The next step for our tool is to import the crypto data that was pulled in the previous step and use that data to run the simulations. 
 
-![Alt text](images/image2.png)
+![Alt text](Images/image2.png)
 
 After the simulations are complete the client will be able to input their desired investment amount:
 
-![Alt text](images/image3.png)
+![Alt text](Images/image3.png)
 
 The last step is for our tool to send back the results from all of the work it has done. The output will tell the client these things :
 
 **1. The coin name and how much many shares to purchase:**
 **2. Your leftover dollar amount:"**
 
-![Alt text](images/image4.png)
+![Alt text](Images/image4.png)
 
 **Predicted Portfolio Performance:** <br>
 **1. Expected Annual Return:** <br>
 **2. Annual Volatility:** <br>
 **3. Sharpe Ratio:**
 
-![Alt text](images/image1.png)
+![Alt text](Images/image1.png)
 
 
 ## How to read the output of the tool: <br>
