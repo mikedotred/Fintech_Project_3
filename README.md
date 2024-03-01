@@ -104,4 +104,3 @@ With this output you are ready to go and turn your dream portfolio into reality.
 - Add a monthly reminder to re-optimize the portfolio for comparison.
 
 - Track our recommendations for each client and observe how their portfolio performs.
-
